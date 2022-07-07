@@ -1,7 +1,7 @@
 ## 🖐 Freinds of School  (WebSite)
  Freinds of Schoolwebsite 📱 built using HTML , CSS , JS and showing best practices of 🛠️
 
-## 🌐 See the Website
+## 🌐 See the Website..
 
 See Website [Link 🔗](https://maityamit.github.io/freinds.github.io)
 
